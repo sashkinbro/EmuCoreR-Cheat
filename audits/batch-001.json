@@ -1,0 +1,663 @@
+{
+  "batchId": "batch-001",
+  "verifiedAt": "2026-09-13T13:28:21Z",
+  "entries": [
+    {
+      "kind": "generated",
+      "path": "files/libretro-ps1/cht/Sony - PlayStation/Bugs Bunny _ Taz - Time Busters (USA, Europe) (GameShark).cht",
+      "source": "libretro/libretro-database",
+      "revision": "ff28a5e5bca21f7ae2001602d2e0585cf66c9b5c",
+      "sizeBytes": 1001,
+      "sha256": "987BCC2C487A5D128D03819BC8D14CE384CD2AE155DB5482BBFC6E753D90F595",
+      "serials": [
+        "SLUS-01144"
+      ],
+      "blockCount": 7
+    },
+    {
+      "kind": "generated",
+      "path": "files/libretro-ps1/cht/Sony - PlayStation/Crash Bandicoot (World) (GameShark).cht",
+      "source": "libretro/libretro-database",
+      "revision": "ff28a5e5bca21f7ae2001602d2e0585cf66c9b5c",
+      "sizeBytes": 8240,
+      "sha256": "62F6AB2519B389837CB33AE2A6C92DA4B51792B5E89DAC4205631AD0684E9D51",
+      "serials": [
+        "SCUS-94900"
+      ],
+      "blockCount": 72
+    },
+    {
+      "kind": "generated",
+      "path": "files/libretro-ps1/cht/Sony - PlayStation/Doom (World) (GameShark).cht",
+      "source": "libretro/libretro-database",
+      "revision": "ff28a5e5bca21f7ae2001602d2e0585cf66c9b5c",
+      "sizeBytes": 2607,
+      "sha256": "924AFED22870E80E2FF926F8BDD4155CA1A2CF7D90DE053B800969B7AFA58A18",
+      "serials": [
+        "SLUS-00077"
+      ],
+      "blockCount": 29
+    },
+    {
+      "kind": "generated",
+      "path": "files/libretro-ps1/cht/Sony - PlayStation/Gran Turismo (USA) (GameShark).cht",
+      "source": "libretro/libretro-database",
+      "revision": "ff28a5e5bca21f7ae2001602d2e0585cf66c9b5c",
+      "sizeBytes": 1071,
+      "sha256": "04210026ACF9061BC3824F1641A110296BD6C6EA0F1AC59E2D79C41B748C1FA7",
+      "serials": [
+        "SCUS-94194"
+      ],
+      "blockCount": 1
+    },
+    {
+      "kind": "generated",
+      "path": "files/libretro-ps1/cht/Sony - PlayStation/Grand Theft Auto (USA, Europe) (Game Buster).cht",
+      "source": "libretro/libretro-database",
+      "revision": "ff28a5e5bca21f7ae2001602d2e0585cf66c9b5c",
+      "sizeBytes": 1631,
+      "sha256": "631CAB894208BCE166BC024235FE28B5B721939D3F38B13038EED27F39101033",
+      "serials": [
+        "SLUS-00106"
+      ],
+      "blockCount": 11
+    },
+    {
+      "kind": "generated",
+      "path": "files/libretro-ps1/cht/Sony - PlayStation/Grand Theft Auto (USA, Europe) (GameShark).cht",
+      "source": "libretro/libretro-database",
+      "revision": "ff28a5e5bca21f7ae2001602d2e0585cf66c9b5c",
+      "sizeBytes": 2207,
+      "sha256": "B9249D4EE4C21BFEFEF45642A0B354FB3AEFE15545D8AA97E20D83AA0A06E56D",
+      "serials": [
+        "SLUS-00106"
+      ],
+      "blockCount": 19
+    },
+    {
+      "kind": "generated",
+      "path": "files/libretro-ps1/cht/Sony - PlayStation/Medal of Honor (USA, Europe) (Game Buster).cht",
+      "source": "libretro/libretro-database",
+      "revision": "ff28a5e5bca21f7ae2001602d2e0585cf66c9b5c",
+      "sizeBytes": 434,
+      "sha256": "E241BE5CCD3D9F80663CC3823A33A95AFE448EC3B65315A6997BE46B29229F06",
+      "serials": [
+        "SLUS-00974"
+      ],
+      "blockCount": 3
+    },
+    {
+      "kind": "generated",
+      "path": "files/libretro-ps1/cht/Sony - PlayStation/Medal of Honor (USA, Europe) (GameShark).cht",
+      "source": "libretro/libretro-database",
+      "revision": "ff28a5e5bca21f7ae2001602d2e0585cf66c9b5c",
+      "sizeBytes": 2679,
+      "sha256": "3D3AF5611EF3E54AD5F2DD1DE58BA6B04E5C89588D7512896233FD34271DEC42",
+      "serials": [
+        "SLUS-00974"
+      ],
+      "blockCount": 23
+    },
+    {
+      "kind": "generated",
+      "path": "files/libretro-ps1/cht/Sony - PlayStation/Mortal Kombat Trilogy (World) (Game Buster).cht",
+      "source": "libretro/libretro-database",
+      "revision": "ff28a5e5bca21f7ae2001602d2e0585cf66c9b5c",
+      "sizeBytes": 5568,
+      "sha256": "4C3E12CCCC3CC50E231F71DDACF5029262FF15A95B3AFF9148968C03A6F6B745",
+      "serials": [
+        "SLUS-00330"
+      ],
+      "blockCount": 54
+    },
+    {
+      "kind": "generated",
+      "path": "files/libretro-ps1/cht/Sony - PlayStation/Mortal Kombat Trilogy (World) (GameShark).cht",
+      "source": "libretro/libretro-database",
+      "revision": "ff28a5e5bca21f7ae2001602d2e0585cf66c9b5c",
+      "sizeBytes": 10104,
+      "sha256": "73BFB753D3CDE1E5AAB036E3E3EF012BD8EDEB3669C967732F5EA0F142596894",
+      "serials": [
+        "SLUS-00330"
+      ],
+      "blockCount": 85
+    },
+    {
+      "kind": "generated",
+      "path": "files/libretro-ps1/cht/Sony - PlayStation/NASCAR Rumble (USA) (GameShark).cht",
+      "source": "libretro/libretro-database",
+      "revision": "ff28a5e5bca21f7ae2001602d2e0585cf66c9b5c",
+      "sizeBytes": 1418,
+      "sha256": "53BD503AC7740C94A9A2C21873A7B3382C6A5CCA01FDC44F24A5251CAD331DB0",
+      "serials": [
+        "SLUS-01068"
+      ],
+      "blockCount": 14
+    },
+    {
+      "kind": "generated",
+      "path": "files/libretro-ps1/cht/Sony - PlayStation/Nickelodeon SpongeBob SquarePants - SuperSponge (USA, Europe) (GameShark).cht",
+      "source": "libretro/libretro-database",
+      "revision": "ff28a5e5bca21f7ae2001602d2e0585cf66c9b5c",
+      "sizeBytes": 348,
+      "sha256": "C70728DAC02E5A221D590C52E043FBF6FF11C0DB85B764E2C86408B760EF59F6",
+      "serials": [
+        "SLUS-01352"
+      ],
+      "blockCount": 4
+    },
+    {
+      "kind": "generated",
+      "path": "files/libretro-ps1/cht/Sony - PlayStation/Silent Hill (World) (Game Buster).cht",
+      "source": "libretro/libretro-database",
+      "revision": "ff28a5e5bca21f7ae2001602d2e0585cf66c9b5c",
+      "sizeBytes": 1906,
+      "sha256": "A9F2F7F7BFECF316ABB471A3F55CF6C08750AC96A6BF5DCEE3366ACE0798EA1B",
+      "serials": [
+        "SLUS-00707"
+      ],
+      "blockCount": 14
+    },
+    {
+      "kind": "generated",
+      "path": "files/libretro-ps1/cht/Sony - PlayStation/Silent Hill (World) (GameShark).cht",
+      "source": "libretro/libretro-database",
+      "revision": "ff28a5e5bca21f7ae2001602d2e0585cf66c9b5c",
+      "sizeBytes": 702,
+      "sha256": "D9EA40610AFA7C3180092A2080BBB86624313A69074502BF4CF6DA87B1A950AA",
+      "serials": [
+        "SLUS-00707"
+      ],
+      "blockCount": 6
+    },
+    {
+      "kind": "generated",
+      "path": "files/libretro-ps1/cht/Sony - PlayStation/Spyro - Year of the Dragon (USA, Europe) (Game Buster).cht",
+      "source": "libretro/libretro-database",
+      "revision": "ff28a5e5bca21f7ae2001602d2e0585cf66c9b5c",
+      "sizeBytes": 565,
+      "sha256": "1F0D97B0F35723DE03B698D9AF69DB46EE876CD1BF4C2D52BD4BD9BCEE772134",
+      "serials": [
+        "SCUS-94467"
+      ],
+      "blockCount": 5
+    },
+    {
+      "kind": "generated",
+      "path": "files/libretro-ps1/cht/Sony - PlayStation/Spyro - Year of the Dragon (USA, Europe) (GameShark).cht",
+      "source": "libretro/libretro-database",
+      "revision": "ff28a5e5bca21f7ae2001602d2e0585cf66c9b5c",
+      "sizeBytes": 1430,
+      "sha256": "21E545D2FFFEC820A9D76038740976974F4A4B5389EC60EABCC8FB89F25DD76C",
+      "serials": [
+        "SCUS-94467"
+      ],
+      "blockCount": 10
+    },
+    {
+      "kind": "generated",
+      "path": "files/libretro-ps1/cht/Sony - PlayStation/Tekken 3 (World) (GameShark).cht",
+      "source": "libretro/libretro-database",
+      "revision": "ff28a5e5bca21f7ae2001602d2e0585cf66c9b5c",
+      "sizeBytes": 1270,
+      "sha256": "ADBE5FF2297DA3EDBFC4BE6D002DE408847975FBE11A97DD3C66A096268136F8",
+      "serials": [
+        "SLUS-00402"
+      ],
+      "blockCount": 11
+    },
+    {
+      "kind": "generated",
+      "path": "files/cookieplmonster-ps1/PS1/Gran Turismo 2/16x9 Widescreen/NTSC-U 1.1.cht",
+      "source": "CookiePLMonster/Console-Cheat-Codes",
+      "revision": "f55aa8db8e6c79a2af6a9dd216b46635fc7324b5",
+      "sizeBytes": 1597,
+      "sha256": "59BF61E534C9F57E40DE10C2E749EAAB01CD33953806D8F9AFEB1D48007CCAC3",
+      "serials": [
+        "SCUS-94455",
+        "SCUS-94488"
+      ],
+      "blockCount": 1
+    },
+    {
+      "kind": "generated",
+      "path": "files/cookieplmonster-ps1/PS1/Gran Turismo 2/16x9 Widescreen/NTSC-U 1.2.cht",
+      "source": "CookiePLMonster/Console-Cheat-Codes",
+      "revision": "f55aa8db8e6c79a2af6a9dd216b46635fc7324b5",
+      "sizeBytes": 1597,
+      "sha256": "5A9A9ABCB4D2758A0B87ACAB2E2D421F43BDC8414F1530261320874B948306FE",
+      "serials": [
+        "SCUS-94455",
+        "SCUS-94488"
+      ],
+      "blockCount": 1
+    },
+    {
+      "kind": "generated",
+      "path": "files/cookieplmonster-ps1/PS1/Gran Turismo 2/21x9 Widescreen/NTSC-U 1.1.cht",
+      "source": "CookiePLMonster/Console-Cheat-Codes",
+      "revision": "f55aa8db8e6c79a2af6a9dd216b46635fc7324b5",
+      "sizeBytes": 1597,
+      "sha256": "E589496EAF60927929DEEE0697BB0C131F44F1067C4500A1D9698DC57EDB04C4",
+      "serials": [
+        "SCUS-94455",
+        "SCUS-94488"
+      ],
+      "blockCount": 1
+    },
+    {
+      "kind": "generated",
+      "path": "files/cookieplmonster-ps1/PS1/Gran Turismo 2/21x9 Widescreen/NTSC-U 1.2.cht",
+      "source": "CookiePLMonster/Console-Cheat-Codes",
+      "revision": "f55aa8db8e6c79a2af6a9dd216b46635fc7324b5",
+      "sizeBytes": 1597,
+      "sha256": "8FB71629223C09603BA4FEA39B5A800CE7C40AD89A06A8A9F99C4972182300F6",
+      "serials": [
+        "SCUS-94455",
+        "SCUS-94488"
+      ],
+      "blockCount": 1
+    },
+    {
+      "kind": "generated",
+      "path": "files/cookieplmonster-ps1/PS1/Gran Turismo 2/60 FPS/NTSC-U 1.1.cht",
+      "source": "CookiePLMonster/Console-Cheat-Codes",
+      "revision": "f55aa8db8e6c79a2af6a9dd216b46635fc7324b5",
+      "sizeBytes": 233,
+      "sha256": "D12E51D91DEC0E6E82BFDC7C48DD24506346BDFDDF5F9D5605A45173C1593604",
+      "serials": [
+        "SCUS-94455",
+        "SCUS-94488"
+      ],
+      "blockCount": 1
+    },
+    {
+      "kind": "generated",
+      "path": "files/cookieplmonster-ps1/PS1/Gran Turismo 2/60 FPS/NTSC-U 1.2.cht",
+      "source": "CookiePLMonster/Console-Cheat-Codes",
+      "revision": "f55aa8db8e6c79a2af6a9dd216b46635fc7324b5",
+      "sizeBytes": 233,
+      "sha256": "F7FBB39C255AF6690A965000D34DF91B2555680F0D21F0AB41342ED47C3DC8C4",
+      "serials": [
+        "SCUS-94455",
+        "SCUS-94488"
+      ],
+      "blockCount": 1
+    },
+    {
+      "kind": "generated",
+      "path": "files/cookieplmonster-ps1/PS1/Gran Turismo 2/8MB RAM/NTSC-U 1.1, NTSC-U 1.2.cht",
+      "source": "CookiePLMonster/Console-Cheat-Codes",
+      "revision": "f55aa8db8e6c79a2af6a9dd216b46635fc7324b5",
+      "sizeBytes": 331,
+      "sha256": "91472C329BA3A6DA2EFC25DF492764A4BE129E746CFD929F68216B2D09BC4E56",
+      "serials": [
+        "SCUS-94455",
+        "SCUS-94488"
+      ],
+      "blockCount": 1
+    },
+    {
+      "kind": "generated",
+      "path": "files/cookieplmonster-ps1/PS1/Gran Turismo 2/BGM switch/NTSC-U 1.1.cht",
+      "source": "CookiePLMonster/Console-Cheat-Codes",
+      "revision": "f55aa8db8e6c79a2af6a9dd216b46635fc7324b5",
+      "sizeBytes": 924,
+      "sha256": "D9452050E33682E8A77A8552CDB77E5340057F110BC5D1547A750283207A84E6",
+      "serials": [
+        "SCUS-94455",
+        "SCUS-94488"
+      ],
+      "blockCount": 1
+    },
+    {
+      "kind": "generated",
+      "path": "files/cookieplmonster-ps1/PS1/Gran Turismo 2/BGM switch/NTSC-U 1.2.cht",
+      "source": "CookiePLMonster/Console-Cheat-Codes",
+      "revision": "f55aa8db8e6c79a2af6a9dd216b46635fc7324b5",
+      "sizeBytes": 924,
+      "sha256": "0854BE2269A072820966C842199FE9947D100231355B5891D822820B925ED3B7",
+      "serials": [
+        "SCUS-94455",
+        "SCUS-94488"
+      ],
+      "blockCount": 1
+    },
+    {
+      "kind": "generated",
+      "path": "files/cookieplmonster-ps1/PS1/Gran Turismo 2/Fixed event generator/NTSC-U 1.1.cht",
+      "source": "CookiePLMonster/Console-Cheat-Codes",
+      "revision": "f55aa8db8e6c79a2af6a9dd216b46635fc7324b5",
+      "sizeBytes": 408,
+      "sha256": "FF98957D0E471E4AC681533940EBD63443284CF363BC65B3BDBDBBEA8BD03E49",
+      "serials": [
+        "SCUS-94455",
+        "SCUS-94488"
+      ],
+      "blockCount": 1
+    },
+    {
+      "kind": "generated",
+      "path": "files/cookieplmonster-ps1/PS1/Gran Turismo 2/Fixed event generator/NTSC-U 1.2.cht",
+      "source": "CookiePLMonster/Console-Cheat-Codes",
+      "revision": "f55aa8db8e6c79a2af6a9dd216b46635fc7324b5",
+      "sizeBytes": 408,
+      "sha256": "2AB1DEB0520FC1805C8C47EE7A5289DC9D311D3917490EF0DA1B5FBE17D21E18",
+      "serials": [
+        "SCUS-94455",
+        "SCUS-94488"
+      ],
+      "blockCount": 1
+    },
+    {
+      "kind": "generated",
+      "path": "files/cookieplmonster-ps1/PS1/Gran Turismo 2/Full detail AI cars/NTSC-U 1.1, NTSC-U 1.2.cht",
+      "source": "CookiePLMonster/Console-Cheat-Codes",
+      "revision": "f55aa8db8e6c79a2af6a9dd216b46635fc7324b5",
+      "sizeBytes": 162,
+      "sha256": "CCABD35F6DCAA1D003205834C5E06DDEE805C069EA7A40144117425E149AD700",
+      "serials": [
+        "SCUS-94455",
+        "SCUS-94488"
+      ],
+      "blockCount": 1
+    },
+    {
+      "kind": "generated",
+      "path": "files/cookieplmonster-ps1/PS1/Gran Turismo 2/HUD toggle/NTSC-U 1.1.cht",
+      "source": "CookiePLMonster/Console-Cheat-Codes",
+      "revision": "f55aa8db8e6c79a2af6a9dd216b46635fc7324b5",
+      "sizeBytes": 437,
+      "sha256": "988C93554BA3AD4EC52A54D0FB5E70B3404B92DEC7FE8157F9BBFA9207D13F3E",
+      "serials": [
+        "SCUS-94455",
+        "SCUS-94488"
+      ],
+      "blockCount": 1
+    },
+    {
+      "kind": "generated",
+      "path": "files/cookieplmonster-ps1/PS1/Gran Turismo 2/HUD toggle/NTSC-U 1.2.cht",
+      "source": "CookiePLMonster/Console-Cheat-Codes",
+      "revision": "f55aa8db8e6c79a2af6a9dd216b46635fc7324b5",
+      "sizeBytes": 437,
+      "sha256": "24709A56EEFEAAC01C26ACDC2EB26BEFB1A2999DA55554C899AEC6E1C635A955",
+      "serials": [
+        "SCUS-94455",
+        "SCUS-94488"
+      ],
+      "blockCount": 1
+    },
+    {
+      "kind": "generated",
+      "path": "files/cookieplmonster-ps1/PS1/Gran Turismo 2/Higher draw distance/NTSC-U 1.1.cht",
+      "source": "CookiePLMonster/Console-Cheat-Codes",
+      "revision": "f55aa8db8e6c79a2af6a9dd216b46635fc7324b5",
+      "sizeBytes": 100,
+      "sha256": "FCB34A82B87E706738016D886F470425AE4320F10B59108863A199691FF4CB19",
+      "serials": [
+        "SCUS-94455",
+        "SCUS-94488"
+      ],
+      "blockCount": 1
+    },
+    {
+      "kind": "generated",
+      "path": "files/cookieplmonster-ps1/PS1/Gran Turismo 2/Higher draw distance/NTSC-U 1.2.cht",
+      "source": "CookiePLMonster/Console-Cheat-Codes",
+      "revision": "f55aa8db8e6c79a2af6a9dd216b46635fc7324b5",
+      "sizeBytes": 100,
+      "sha256": "1064F3AF2FD739EE89724D5EBB64C650600B235B11A61FE8E7D7CD03ACCCE700",
+      "serials": [
+        "SCUS-94455",
+        "SCUS-94488"
+      ],
+      "blockCount": 1
+    },
+    {
+      "kind": "generated",
+      "path": "files/cookieplmonster-ps1/PS1/Gran Turismo 2/Metric units/NTSC-U 1.1.cht",
+      "source": "CookiePLMonster/Console-Cheat-Codes",
+      "revision": "f55aa8db8e6c79a2af6a9dd216b46635fc7324b5",
+      "sizeBytes": 1990,
+      "sha256": "1FAEE60A3FE5A4FC4E5305A2AC71F69F02A702CA18A43ADA52ED5D7CB2D557D0",
+      "serials": [
+        "SCUS-94455",
+        "SCUS-94488"
+      ],
+      "blockCount": 1
+    },
+    {
+      "kind": "generated",
+      "path": "files/cookieplmonster-ps1/PS1/Gran Turismo 2/Metric units/NTSC-U 1.2.cht",
+      "source": "CookiePLMonster/Console-Cheat-Codes",
+      "revision": "f55aa8db8e6c79a2af6a9dd216b46635fc7324b5",
+      "sizeBytes": 1943,
+      "sha256": "000EC6332C2570969D8F868AF9CBE6D03EB3CA63CB0B3B3C938863F94EF365A0",
+      "serials": [
+        "SCUS-94455",
+        "SCUS-94488"
+      ],
+      "blockCount": 1
+    },
+    {
+      "kind": "generated",
+      "path": "files/cookieplmonster-ps1/PS1/Gran Turismo 2/Replay cameras/NTSC-U 1.1, NTSC-U 1.2.cht",
+      "source": "CookiePLMonster/Console-Cheat-Codes",
+      "revision": "f55aa8db8e6c79a2af6a9dd216b46635fc7324b5",
+      "sizeBytes": 585,
+      "sha256": "F1DEB7E253A04E4BE9C65C84774F0C799EE99710FB50632597697DBF1EFB046F",
+      "serials": [
+        "SCUS-94455",
+        "SCUS-94488"
+      ],
+      "blockCount": 1
+    },
+    {
+      "kind": "generated",
+      "path": "files/cookieplmonster-ps1/PS1/Gran Turismo 2/True Endurance/NTSC-U 1.1.cht",
+      "source": "CookiePLMonster/Console-Cheat-Codes",
+      "revision": "f55aa8db8e6c79a2af6a9dd216b46635fc7324b5",
+      "sizeBytes": 771,
+      "sha256": "B33424AA1B77A1E04168CA121E718447C4E09314D576E0430C4F1F4871602304",
+      "serials": [
+        "SCUS-94455",
+        "SCUS-94488"
+      ],
+      "blockCount": 1
+    },
+    {
+      "kind": "generated",
+      "path": "files/cookieplmonster-ps1/PS1/Gran Turismo 2/True Endurance/NTSC-U 1.2.cht",
+      "source": "CookiePLMonster/Console-Cheat-Codes",
+      "revision": "f55aa8db8e6c79a2af6a9dd216b46635fc7324b5",
+      "sizeBytes": 771,
+      "sha256": "CC7D81C143E0E61ADF07C2C638F52276DC27C7636B7D0AF115BE5D203C549055",
+      "serials": [
+        "SCUS-94455",
+        "SCUS-94488"
+      ],
+      "blockCount": 1
+    },
+    {
+      "kind": "generated",
+      "path": "files/cookieplmonster-ps1/PS1/Gran Turismo/60 FPS/NTSC-U 1.0.cht",
+      "source": "CookiePLMonster/Console-Cheat-Codes",
+      "revision": "f55aa8db8e6c79a2af6a9dd216b46635fc7324b5",
+      "sizeBytes": 115,
+      "sha256": "7DA89B172755FC08371208EB3861E36E5295446908F335E56D56120CFF36A1EB",
+      "serials": [
+        "SCUS-94194"
+      ],
+      "blockCount": 1
+    },
+    {
+      "kind": "generated",
+      "path": "files/cookieplmonster-ps1/PS1/Gran Turismo/60 FPS/NTSC-U 1.1.cht",
+      "source": "CookiePLMonster/Console-Cheat-Codes",
+      "revision": "f55aa8db8e6c79a2af6a9dd216b46635fc7324b5",
+      "sizeBytes": 115,
+      "sha256": "C967CFD5DAB9BD183C1B064E064FA4D9042129A9AFACD5D24766C2A4CC38B711",
+      "serials": [
+        "SCUS-94194"
+      ],
+      "blockCount": 1
+    },
+    {
+      "kind": "generated",
+      "path": "files/cookieplmonster-ps1/PS1/Gran Turismo/Sim timescale in Arcade/NTSC-U 1.1.cht",
+      "source": "CookiePLMonster/Console-Cheat-Codes",
+      "revision": "f55aa8db8e6c79a2af6a9dd216b46635fc7324b5",
+      "sizeBytes": 51,
+      "sha256": "E89544DC619702FEE84453F6C843A335D18D6E6DA70D01589CF1FD1EF1A6DA5A",
+      "serials": [
+        "SCUS-94194"
+      ],
+      "blockCount": 1
+    },
+    {
+      "kind": "external",
+      "path": "cheats/SCUS-94455.cht",
+      "source": "duckstation/chtdb",
+      "revision": "aa70de735d791639a210faa52ee974de61a10347",
+      "sizeBytes": 4491,
+      "sha256": "65F7AB92019088230C12E73F56E8687DE711F2ADAA7D669F0FB7067315AC255D",
+      "serials": [
+        "SCUS-94455"
+      ],
+      "blockCount": 33
+    },
+    {
+      "kind": "external",
+      "path": "cheats/SCUS-94467.cht",
+      "source": "duckstation/chtdb",
+      "revision": "aa70de735d791639a210faa52ee974de61a10347",
+      "sizeBytes": 9681,
+      "sha256": "2FAA9BDCD306F7CE0DFD09690688E54F09725AC975B4DB9AEB13D090398F8CCE",
+      "serials": [
+        "SCUS-94467"
+      ],
+      "blockCount": 113
+    },
+    {
+      "kind": "external",
+      "path": "cheats/SCUS-94488.cht",
+      "source": "duckstation/chtdb",
+      "revision": "aa70de735d791639a210faa52ee974de61a10347",
+      "sizeBytes": 13828,
+      "sha256": "931AEEE191B4A3A46C9D1376FEF1C62A4DD961972FC9FCD765BB291C677E67A2",
+      "serials": [
+        "SCUS-94488"
+      ],
+      "blockCount": 46
+    },
+    {
+      "kind": "external",
+      "path": "cheats/SLUS-00077.cht",
+      "source": "duckstation/chtdb",
+      "revision": "aa70de735d791639a210faa52ee974de61a10347",
+      "sizeBytes": 2599,
+      "sha256": "E520B967401C211F8BA58CF173CED72ABB8679E751116221B55F40FA305ECF04",
+      "serials": [
+        "SLUS-00077"
+      ],
+      "blockCount": 29
+    },
+    {
+      "kind": "external",
+      "path": "cheats/SLUS-00106.cht",
+      "source": "duckstation/chtdb",
+      "revision": "aa70de735d791639a210faa52ee974de61a10347",
+      "sizeBytes": 1688,
+      "sha256": "AB0CF49DAD8881999F0FACF3E4CB14D4B02FC291FE98A2A4C9DB791B94B9F8DF",
+      "serials": [
+        "SLUS-00106"
+      ],
+      "blockCount": 18
+    },
+    {
+      "kind": "external",
+      "path": "cheats/SLUS-00330.cht",
+      "source": "duckstation/chtdb",
+      "revision": "aa70de735d791639a210faa52ee974de61a10347",
+      "sizeBytes": 708,
+      "sha256": "D7CE6D97A34D9857AF1C066694377CA7C2C3EA4D0D86920DA5BB96BDDAA85D31",
+      "serials": [
+        "SLUS-00330"
+      ],
+      "blockCount": 7
+    },
+    {
+      "kind": "external",
+      "path": "cheats/SLUS-00402.cht",
+      "source": "duckstation/chtdb",
+      "revision": "aa70de735d791639a210faa52ee974de61a10347",
+      "sizeBytes": 4273,
+      "sha256": "EFC56F8D87DE7576097F861177938BCB099CD3C3FC5E1641F0B56795B857EE2B",
+      "serials": [
+        "SLUS-00402"
+      ],
+      "blockCount": 40
+    },
+    {
+      "kind": "external",
+      "path": "cheats/SLUS-00707.cht",
+      "source": "duckstation/chtdb",
+      "revision": "aa70de735d791639a210faa52ee974de61a10347",
+      "sizeBytes": 2751,
+      "sha256": "94E28A074FA1BF83A7738B4D50D126C4D69B90252DC2666AD7A4B79A988B7949",
+      "serials": [
+        "SLUS-00707"
+      ],
+      "blockCount": 28
+    },
+    {
+      "kind": "external",
+      "path": "cheats/SLUS-00974.cht",
+      "source": "duckstation/chtdb",
+      "revision": "aa70de735d791639a210faa52ee974de61a10347",
+      "sizeBytes": 2865,
+      "sha256": "C62638B486110D54484A7B8BEE50402DCF8963A330581A6088768CF91C90A268",
+      "serials": [
+        "SLUS-00974"
+      ],
+      "blockCount": 23
+    },
+    {
+      "kind": "external",
+      "path": "cheats/SLUS-01068.cht",
+      "source": "duckstation/chtdb",
+      "revision": "aa70de735d791639a210faa52ee974de61a10347",
+      "sizeBytes": 498,
+      "sha256": "650B44E1AA88D8B3E990EC51CF90EA046C6740EC4C264C2D2613B7435E0E65F0",
+      "serials": [
+        "SLUS-01068"
+      ],
+      "blockCount": 4
+    },
+    {
+      "kind": "external",
+      "path": "cheats/SLUS-01144.cht",
+      "source": "duckstation/chtdb",
+      "revision": "aa70de735d791639a210faa52ee974de61a10347",
+      "sizeBytes": 2368,
+      "sha256": "1408D7B61373A7CF545A126CD3CC3857C8C50AD65B191B4F00F138E0F1FC7132",
+      "serials": [
+        "SLUS-01144"
+      ],
+      "blockCount": 20
+    },
+    {
+      "kind": "external",
+      "path": "cheats/SLUS-01352.cht",
+      "source": "duckstation/chtdb",
+      "revision": "aa70de735d791639a210faa52ee974de61a10347",
+      "sizeBytes": 1767,
+      "sha256": "EA9295ADEA3D0A7EA8A0C4A5256D42257CDBFFCC6E6A3D3AE3A24DDFF249B39A",
+      "serials": [
+        "SLUS-01352"
+      ],
+      "blockCount": 21
+    }
+  ]
+}

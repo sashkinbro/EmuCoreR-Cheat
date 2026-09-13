@@ -1,0 +1,875 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-13T13:28:21Z",
+  "entries": [
+    {
+      "id": "chtdb-cheats-slus-01144-cht",
+      "title": "Bugs Bunny & Taz - Time Busters",
+      "serials": [
+        "SLUS-01144"
+      ],
+      "authors": [
+        "DuckStation CHTDB contributors / original code authors"
+      ],
+      "description": "Infinite Health, Infinite Clipboards, Infinite Carrots",
+      "downloadUrl": "https://raw.githubusercontent.com/duckstation/chtdb/aa70de735d791639a210faa52ee974de61a10347/cheats/SLUS-01144.cht",
+      "sourceUrl": "https://github.com/duckstation/chtdb/blob/aa70de735d791639a210faa52ee974de61a10347/cheats/SLUS-01144.cht",
+      "sourceName": "DuckStation Community Cheat Database",
+      "license": "See upstream source terms",
+      "blockCount": 20
+    },
+    {
+      "id": "libretro-ps1-cht-sony-playstation-bugs-bunny-taz-time-busters-usa-europe-gameshark-cht",
+      "title": "Bugs Bunny & Taz - Time Busters",
+      "serials": [
+        "SLUS-01144"
+      ],
+      "authors": [
+        "libretro-database contributors"
+      ],
+      "description": "Infinite Health, Infinite Clipboards, Infinite Carrots",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreR-Cheat/main/files/libretro-ps1/cht/Sony%20-%20PlayStation/Bugs%20Bunny%20_%20Taz%20-%20Time%20Busters%20%28USA%2C%20Europe%29%20%28GameShark%29.cht",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/ff28a5e5bca21f7ae2001602d2e0585cf66c9b5c/cht/Sony%20-%20PlayStation/Bugs%20Bunny%20_%20Taz%20-%20Time%20Busters%20%28USA%2C%20Europe%29%20%28GameShark%29.cht",
+      "sourceName": "libretro PlayStation 1 Cheats",
+      "license": "CC-BY-SA-4.0",
+      "blockCount": 7
+    },
+    {
+      "id": "libretro-ps1-cht-sony-playstation-crash-bandicoot-world-gameshark-cht",
+      "title": "Crash Bandicoot",
+      "serials": [
+        "SCUS-94900"
+      ],
+      "authors": [
+        "libretro-database contributors"
+      ],
+      "description": "Infinite Lives \"N. Sanity Beach\" Stage, Infinite Lives \"Jungle Rollers\" Stage, Infinite Lives \"The Great Gate\" Stage",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreR-Cheat/main/files/libretro-ps1/cht/Sony%20-%20PlayStation/Crash%20Bandicoot%20%28World%29%20%28GameShark%29.cht",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/ff28a5e5bca21f7ae2001602d2e0585cf66c9b5c/cht/Sony%20-%20PlayStation/Crash%20Bandicoot%20%28World%29%20%28GameShark%29.cht",
+      "sourceName": "libretro PlayStation 1 Cheats",
+      "license": "CC-BY-SA-4.0",
+      "blockCount": 72
+    },
+    {
+      "id": "chtdb-cheats-slus-00077-cht",
+      "title": "Doom",
+      "serials": [
+        "SLUS-00077"
+      ],
+      "authors": [
+        "DuckStation CHTDB contributors / original code authors"
+      ],
+      "description": "Invincibility v.1.0, Invincibility v.1.1, Infinite Ammo",
+      "downloadUrl": "https://raw.githubusercontent.com/duckstation/chtdb/aa70de735d791639a210faa52ee974de61a10347/cheats/SLUS-00077.cht",
+      "sourceUrl": "https://github.com/duckstation/chtdb/blob/aa70de735d791639a210faa52ee974de61a10347/cheats/SLUS-00077.cht",
+      "sourceName": "DuckStation Community Cheat Database",
+      "license": "See upstream source terms",
+      "blockCount": 29
+    },
+    {
+      "id": "libretro-ps1-cht-sony-playstation-doom-world-gameshark-cht",
+      "title": "Doom",
+      "serials": [
+        "SLUS-00077"
+      ],
+      "authors": [
+        "libretro-database contributors"
+      ],
+      "description": "Invincible, Mega Rapid Fire, Unlimited Bullets",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreR-Cheat/main/files/libretro-ps1/cht/Sony%20-%20PlayStation/Doom%20%28World%29%20%28GameShark%29.cht",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/ff28a5e5bca21f7ae2001602d2e0585cf66c9b5c/cht/Sony%20-%20PlayStation/Doom%20%28World%29%20%28GameShark%29.cht",
+      "sourceName": "libretro PlayStation 1 Cheats",
+      "license": "CC-BY-SA-4.0",
+      "blockCount": 29
+    },
+    {
+      "id": "cookieplmonster-ps1-ps1-gran-turismo-60-fps-ntsc-u-1-0-cht",
+      "title": "Gran Turismo",
+      "serials": [
+        "SCUS-94194"
+      ],
+      "authors": [
+        "CookiePLMonster and the credited code authors"
+      ],
+      "description": "60 FPS",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreR-Cheat/main/files/cookieplmonster-ps1/PS1/Gran%20Turismo/60%20FPS/NTSC-U%201.0.cht",
+      "sourceUrl": "https://github.com/CookiePLMonster/Console-Cheat-Codes/blob/f55aa8db8e6c79a2af6a9dd216b46635fc7324b5/PS1/Gran%20Turismo/60%20FPS/NTSC-U%201.0.cht",
+      "sourceName": "CookiePLMonster Console Cheat Codes",
+      "license": "MIT",
+      "blockCount": 1
+    },
+    {
+      "id": "cookieplmonster-ps1-ps1-gran-turismo-60-fps-ntsc-u-1-1-cht",
+      "title": "Gran Turismo",
+      "serials": [
+        "SCUS-94194"
+      ],
+      "authors": [
+        "CookiePLMonster and the credited code authors"
+      ],
+      "description": "60 FPS",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreR-Cheat/main/files/cookieplmonster-ps1/PS1/Gran%20Turismo/60%20FPS/NTSC-U%201.1.cht",
+      "sourceUrl": "https://github.com/CookiePLMonster/Console-Cheat-Codes/blob/f55aa8db8e6c79a2af6a9dd216b46635fc7324b5/PS1/Gran%20Turismo/60%20FPS/NTSC-U%201.1.cht",
+      "sourceName": "CookiePLMonster Console Cheat Codes",
+      "license": "MIT",
+      "blockCount": 1
+    },
+    {
+      "id": "cookieplmonster-ps1-ps1-gran-turismo-sim-timescale-in-arcade-ntsc-u-1-1-cht",
+      "title": "Gran Turismo",
+      "serials": [
+        "SCUS-94194"
+      ],
+      "authors": [
+        "CookiePLMonster and the credited code authors"
+      ],
+      "description": "Simulation timescale in Arcade",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreR-Cheat/main/files/cookieplmonster-ps1/PS1/Gran%20Turismo/Sim%20timescale%20in%20Arcade/NTSC-U%201.1.cht",
+      "sourceUrl": "https://github.com/CookiePLMonster/Console-Cheat-Codes/blob/f55aa8db8e6c79a2af6a9dd216b46635fc7324b5/PS1/Gran%20Turismo/Sim%20timescale%20in%20Arcade/NTSC-U%201.1.cht",
+      "sourceName": "CookiePLMonster Console Cheat Codes",
+      "license": "MIT",
+      "blockCount": 1
+    },
+    {
+      "id": "libretro-ps1-cht-sony-playstation-gran-turismo-usa-gameshark-cht",
+      "title": "Gran Turismo",
+      "serials": [
+        "SCUS-94194"
+      ],
+      "authors": [
+        "libretro-database contributors"
+      ],
+      "description": "Race With Replay Camera",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreR-Cheat/main/files/libretro-ps1/cht/Sony%20-%20PlayStation/Gran%20Turismo%20%28USA%29%20%28GameShark%29.cht",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/ff28a5e5bca21f7ae2001602d2e0585cf66c9b5c/cht/Sony%20-%20PlayStation/Gran%20Turismo%20%28USA%29%20%28GameShark%29.cht",
+      "sourceName": "libretro PlayStation 1 Cheats",
+      "license": "CC-BY-SA-4.0",
+      "blockCount": 1
+    },
+    {
+      "id": "chtdb-cheats-scus-94455-cht",
+      "title": "Gran Turismo 2",
+      "serials": [
+        "SCUS-94455"
+      ],
+      "authors": [
+        "DuckStation CHTDB contributors / original code authors"
+      ],
+      "description": "Simulation Disc\\A Ton Of Cash, Simulation Disc 1.0\\Hit/Tap Any AI Driver To Intimidate Them All, Simulation Disc\\Stop Race Timer (Really Helpful In License Tests)",
+      "downloadUrl": "https://raw.githubusercontent.com/duckstation/chtdb/aa70de735d791639a210faa52ee974de61a10347/cheats/SCUS-94455.cht",
+      "sourceUrl": "https://github.com/duckstation/chtdb/blob/aa70de735d791639a210faa52ee974de61a10347/cheats/SCUS-94455.cht",
+      "sourceName": "DuckStation Community Cheat Database",
+      "license": "See upstream source terms",
+      "blockCount": 33
+    },
+    {
+      "id": "chtdb-cheats-scus-94488-cht",
+      "title": "Gran Turismo 2",
+      "serials": [
+        "SCUS-94488"
+      ],
+      "authors": [
+        "DuckStation CHTDB contributors / original code authors"
+      ],
+      "description": "Simulation Disc\\A Ton Of Cash, Simulation Disc 1.2\\Hit/Tap Any AI Driver To Intimidate Them All, Simulation Disc\\Stop Race Timer (Really Helpful In License Tests)",
+      "downloadUrl": "https://raw.githubusercontent.com/duckstation/chtdb/aa70de735d791639a210faa52ee974de61a10347/cheats/SCUS-94488.cht",
+      "sourceUrl": "https://github.com/duckstation/chtdb/blob/aa70de735d791639a210faa52ee974de61a10347/cheats/SCUS-94488.cht",
+      "sourceName": "DuckStation Community Cheat Database",
+      "license": "See upstream source terms",
+      "blockCount": 46
+    },
+    {
+      "id": "cookieplmonster-ps1-ps1-gran-turismo-2-16x9-widescreen-ntsc-u-1-1-cht",
+      "title": "Gran Turismo 2",
+      "serials": [
+        "SCUS-94455",
+        "SCUS-94488"
+      ],
+      "authors": [
+        "CookiePLMonster and the credited code authors"
+      ],
+      "description": "16:9 Widescreen",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreR-Cheat/main/files/cookieplmonster-ps1/PS1/Gran%20Turismo%202/16x9%20Widescreen/NTSC-U%201.1.cht",
+      "sourceUrl": "https://github.com/CookiePLMonster/Console-Cheat-Codes/blob/f55aa8db8e6c79a2af6a9dd216b46635fc7324b5/PS1/Gran%20Turismo%202/16x9%20Widescreen/NTSC-U%201.1.cht",
+      "sourceName": "CookiePLMonster Console Cheat Codes",
+      "license": "MIT",
+      "blockCount": 1
+    },
+    {
+      "id": "cookieplmonster-ps1-ps1-gran-turismo-2-16x9-widescreen-ntsc-u-1-2-cht",
+      "title": "Gran Turismo 2",
+      "serials": [
+        "SCUS-94455",
+        "SCUS-94488"
+      ],
+      "authors": [
+        "CookiePLMonster and the credited code authors"
+      ],
+      "description": "16:9 Widescreen",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreR-Cheat/main/files/cookieplmonster-ps1/PS1/Gran%20Turismo%202/16x9%20Widescreen/NTSC-U%201.2.cht",
+      "sourceUrl": "https://github.com/CookiePLMonster/Console-Cheat-Codes/blob/f55aa8db8e6c79a2af6a9dd216b46635fc7324b5/PS1/Gran%20Turismo%202/16x9%20Widescreen/NTSC-U%201.2.cht",
+      "sourceName": "CookiePLMonster Console Cheat Codes",
+      "license": "MIT",
+      "blockCount": 1
+    },
+    {
+      "id": "cookieplmonster-ps1-ps1-gran-turismo-2-21x9-widescreen-ntsc-u-1-1-cht",
+      "title": "Gran Turismo 2",
+      "serials": [
+        "SCUS-94455",
+        "SCUS-94488"
+      ],
+      "authors": [
+        "CookiePLMonster and the credited code authors"
+      ],
+      "description": "21:9 Widescreen",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreR-Cheat/main/files/cookieplmonster-ps1/PS1/Gran%20Turismo%202/21x9%20Widescreen/NTSC-U%201.1.cht",
+      "sourceUrl": "https://github.com/CookiePLMonster/Console-Cheat-Codes/blob/f55aa8db8e6c79a2af6a9dd216b46635fc7324b5/PS1/Gran%20Turismo%202/21x9%20Widescreen/NTSC-U%201.1.cht",
+      "sourceName": "CookiePLMonster Console Cheat Codes",
+      "license": "MIT",
+      "blockCount": 1
+    },
+    {
+      "id": "cookieplmonster-ps1-ps1-gran-turismo-2-21x9-widescreen-ntsc-u-1-2-cht",
+      "title": "Gran Turismo 2",
+      "serials": [
+        "SCUS-94455",
+        "SCUS-94488"
+      ],
+      "authors": [
+        "CookiePLMonster and the credited code authors"
+      ],
+      "description": "21:9 Widescreen",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreR-Cheat/main/files/cookieplmonster-ps1/PS1/Gran%20Turismo%202/21x9%20Widescreen/NTSC-U%201.2.cht",
+      "sourceUrl": "https://github.com/CookiePLMonster/Console-Cheat-Codes/blob/f55aa8db8e6c79a2af6a9dd216b46635fc7324b5/PS1/Gran%20Turismo%202/21x9%20Widescreen/NTSC-U%201.2.cht",
+      "sourceName": "CookiePLMonster Console Cheat Codes",
+      "license": "MIT",
+      "blockCount": 1
+    },
+    {
+      "id": "cookieplmonster-ps1-ps1-gran-turismo-2-60-fps-ntsc-u-1-1-cht",
+      "title": "Gran Turismo 2",
+      "serials": [
+        "SCUS-94455",
+        "SCUS-94488"
+      ],
+      "authors": [
+        "CookiePLMonster and the credited code authors"
+      ],
+      "description": "60 FPS",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreR-Cheat/main/files/cookieplmonster-ps1/PS1/Gran%20Turismo%202/60%20FPS/NTSC-U%201.1.cht",
+      "sourceUrl": "https://github.com/CookiePLMonster/Console-Cheat-Codes/blob/f55aa8db8e6c79a2af6a9dd216b46635fc7324b5/PS1/Gran%20Turismo%202/60%20FPS/NTSC-U%201.1.cht",
+      "sourceName": "CookiePLMonster Console Cheat Codes",
+      "license": "MIT",
+      "blockCount": 1
+    },
+    {
+      "id": "cookieplmonster-ps1-ps1-gran-turismo-2-60-fps-ntsc-u-1-2-cht",
+      "title": "Gran Turismo 2",
+      "serials": [
+        "SCUS-94455",
+        "SCUS-94488"
+      ],
+      "authors": [
+        "CookiePLMonster and the credited code authors"
+      ],
+      "description": "60 FPS",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreR-Cheat/main/files/cookieplmonster-ps1/PS1/Gran%20Turismo%202/60%20FPS/NTSC-U%201.2.cht",
+      "sourceUrl": "https://github.com/CookiePLMonster/Console-Cheat-Codes/blob/f55aa8db8e6c79a2af6a9dd216b46635fc7324b5/PS1/Gran%20Turismo%202/60%20FPS/NTSC-U%201.2.cht",
+      "sourceName": "CookiePLMonster Console Cheat Codes",
+      "license": "MIT",
+      "blockCount": 1
+    },
+    {
+      "id": "cookieplmonster-ps1-ps1-gran-turismo-2-8mb-ram-ntsc-u-1-1-ntsc-u-1-2-cht",
+      "title": "Gran Turismo 2",
+      "serials": [
+        "SCUS-94455",
+        "SCUS-94488"
+      ],
+      "authors": [
+        "CookiePLMonster and the credited code authors"
+      ],
+      "description": "Use 8MB RAM for polygon buffers",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreR-Cheat/main/files/cookieplmonster-ps1/PS1/Gran%20Turismo%202/8MB%20RAM/NTSC-U%201.1%2C%20NTSC-U%201.2.cht",
+      "sourceUrl": "https://github.com/CookiePLMonster/Console-Cheat-Codes/blob/f55aa8db8e6c79a2af6a9dd216b46635fc7324b5/PS1/Gran%20Turismo%202/8MB%20RAM/NTSC-U%201.1%2C%20NTSC-U%201.2.cht",
+      "sourceName": "CookiePLMonster Console Cheat Codes",
+      "license": "MIT",
+      "blockCount": 1
+    },
+    {
+      "id": "cookieplmonster-ps1-ps1-gran-turismo-2-bgm-switch-ntsc-u-1-1-cht",
+      "title": "Gran Turismo 2",
+      "serials": [
+        "SCUS-94455",
+        "SCUS-94488"
+      ],
+      "authors": [
+        "CookiePLMonster and the credited code authors"
+      ],
+      "description": "R3 to switch BGM in race",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreR-Cheat/main/files/cookieplmonster-ps1/PS1/Gran%20Turismo%202/BGM%20switch/NTSC-U%201.1.cht",
+      "sourceUrl": "https://github.com/CookiePLMonster/Console-Cheat-Codes/blob/f55aa8db8e6c79a2af6a9dd216b46635fc7324b5/PS1/Gran%20Turismo%202/BGM%20switch/NTSC-U%201.1.cht",
+      "sourceName": "CookiePLMonster Console Cheat Codes",
+      "license": "MIT",
+      "blockCount": 1
+    },
+    {
+      "id": "cookieplmonster-ps1-ps1-gran-turismo-2-bgm-switch-ntsc-u-1-2-cht",
+      "title": "Gran Turismo 2",
+      "serials": [
+        "SCUS-94455",
+        "SCUS-94488"
+      ],
+      "authors": [
+        "CookiePLMonster and the credited code authors"
+      ],
+      "description": "R3 to switch BGM in race",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreR-Cheat/main/files/cookieplmonster-ps1/PS1/Gran%20Turismo%202/BGM%20switch/NTSC-U%201.2.cht",
+      "sourceUrl": "https://github.com/CookiePLMonster/Console-Cheat-Codes/blob/f55aa8db8e6c79a2af6a9dd216b46635fc7324b5/PS1/Gran%20Turismo%202/BGM%20switch/NTSC-U%201.2.cht",
+      "sourceName": "CookiePLMonster Console Cheat Codes",
+      "license": "MIT",
+      "blockCount": 1
+    },
+    {
+      "id": "cookieplmonster-ps1-ps1-gran-turismo-2-fixed-event-generator-ntsc-u-1-1-cht",
+      "title": "Gran Turismo 2",
+      "serials": [
+        "SCUS-94455",
+        "SCUS-94488"
+      ],
+      "authors": [
+        "CookiePLMonster and the credited code authors"
+      ],
+      "description": "Fixed Apricot Hill and added AR Mini to Event Generator",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreR-Cheat/main/files/cookieplmonster-ps1/PS1/Gran%20Turismo%202/Fixed%20event%20generator/NTSC-U%201.1.cht",
+      "sourceUrl": "https://github.com/CookiePLMonster/Console-Cheat-Codes/blob/f55aa8db8e6c79a2af6a9dd216b46635fc7324b5/PS1/Gran%20Turismo%202/Fixed%20event%20generator/NTSC-U%201.1.cht",
+      "sourceName": "CookiePLMonster Console Cheat Codes",
+      "license": "MIT",
+      "blockCount": 1
+    },
+    {
+      "id": "cookieplmonster-ps1-ps1-gran-turismo-2-fixed-event-generator-ntsc-u-1-2-cht",
+      "title": "Gran Turismo 2",
+      "serials": [
+        "SCUS-94455",
+        "SCUS-94488"
+      ],
+      "authors": [
+        "CookiePLMonster and the credited code authors"
+      ],
+      "description": "Fixed Apricot Hill and added AR Mini to Event Generator",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreR-Cheat/main/files/cookieplmonster-ps1/PS1/Gran%20Turismo%202/Fixed%20event%20generator/NTSC-U%201.2.cht",
+      "sourceUrl": "https://github.com/CookiePLMonster/Console-Cheat-Codes/blob/f55aa8db8e6c79a2af6a9dd216b46635fc7324b5/PS1/Gran%20Turismo%202/Fixed%20event%20generator/NTSC-U%201.2.cht",
+      "sourceName": "CookiePLMonster Console Cheat Codes",
+      "license": "MIT",
+      "blockCount": 1
+    },
+    {
+      "id": "cookieplmonster-ps1-ps1-gran-turismo-2-full-detail-ai-cars-ntsc-u-1-1-ntsc-u-1-2-cht",
+      "title": "Gran Turismo 2",
+      "serials": [
+        "SCUS-94455",
+        "SCUS-94488"
+      ],
+      "authors": [
+        "CookiePLMonster and the credited code authors"
+      ],
+      "description": "Full detail AI cars (Needs 8MB RAM)",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreR-Cheat/main/files/cookieplmonster-ps1/PS1/Gran%20Turismo%202/Full%20detail%20AI%20cars/NTSC-U%201.1%2C%20NTSC-U%201.2.cht",
+      "sourceUrl": "https://github.com/CookiePLMonster/Console-Cheat-Codes/blob/f55aa8db8e6c79a2af6a9dd216b46635fc7324b5/PS1/Gran%20Turismo%202/Full%20detail%20AI%20cars/NTSC-U%201.1%2C%20NTSC-U%201.2.cht",
+      "sourceName": "CookiePLMonster Console Cheat Codes",
+      "license": "MIT",
+      "blockCount": 1
+    },
+    {
+      "id": "cookieplmonster-ps1-ps1-gran-turismo-2-higher-draw-distance-ntsc-u-1-1-cht",
+      "title": "Gran Turismo 2",
+      "serials": [
+        "SCUS-94455",
+        "SCUS-94488"
+      ],
+      "authors": [
+        "CookiePLMonster and the credited code authors"
+      ],
+      "description": "Slightly higher draw distance",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreR-Cheat/main/files/cookieplmonster-ps1/PS1/Gran%20Turismo%202/Higher%20draw%20distance/NTSC-U%201.1.cht",
+      "sourceUrl": "https://github.com/CookiePLMonster/Console-Cheat-Codes/blob/f55aa8db8e6c79a2af6a9dd216b46635fc7324b5/PS1/Gran%20Turismo%202/Higher%20draw%20distance/NTSC-U%201.1.cht",
+      "sourceName": "CookiePLMonster Console Cheat Codes",
+      "license": "MIT",
+      "blockCount": 1
+    },
+    {
+      "id": "cookieplmonster-ps1-ps1-gran-turismo-2-higher-draw-distance-ntsc-u-1-2-cht",
+      "title": "Gran Turismo 2",
+      "serials": [
+        "SCUS-94455",
+        "SCUS-94488"
+      ],
+      "authors": [
+        "CookiePLMonster and the credited code authors"
+      ],
+      "description": "Slightly higher draw distance",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreR-Cheat/main/files/cookieplmonster-ps1/PS1/Gran%20Turismo%202/Higher%20draw%20distance/NTSC-U%201.2.cht",
+      "sourceUrl": "https://github.com/CookiePLMonster/Console-Cheat-Codes/blob/f55aa8db8e6c79a2af6a9dd216b46635fc7324b5/PS1/Gran%20Turismo%202/Higher%20draw%20distance/NTSC-U%201.2.cht",
+      "sourceName": "CookiePLMonster Console Cheat Codes",
+      "license": "MIT",
+      "blockCount": 1
+    },
+    {
+      "id": "cookieplmonster-ps1-ps1-gran-turismo-2-hud-toggle-ntsc-u-1-1-cht",
+      "title": "Gran Turismo 2",
+      "serials": [
+        "SCUS-94455",
+        "SCUS-94488"
+      ],
+      "authors": [
+        "CookiePLMonster and the credited code authors"
+      ],
+      "description": "L3 to toggle Mirror (tap) and HUD (hold)",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreR-Cheat/main/files/cookieplmonster-ps1/PS1/Gran%20Turismo%202/HUD%20toggle/NTSC-U%201.1.cht",
+      "sourceUrl": "https://github.com/CookiePLMonster/Console-Cheat-Codes/blob/f55aa8db8e6c79a2af6a9dd216b46635fc7324b5/PS1/Gran%20Turismo%202/HUD%20toggle/NTSC-U%201.1.cht",
+      "sourceName": "CookiePLMonster Console Cheat Codes",
+      "license": "MIT",
+      "blockCount": 1
+    },
+    {
+      "id": "cookieplmonster-ps1-ps1-gran-turismo-2-hud-toggle-ntsc-u-1-2-cht",
+      "title": "Gran Turismo 2",
+      "serials": [
+        "SCUS-94455",
+        "SCUS-94488"
+      ],
+      "authors": [
+        "CookiePLMonster and the credited code authors"
+      ],
+      "description": "L3 to toggle Mirror (tap) and HUD (hold)",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreR-Cheat/main/files/cookieplmonster-ps1/PS1/Gran%20Turismo%202/HUD%20toggle/NTSC-U%201.2.cht",
+      "sourceUrl": "https://github.com/CookiePLMonster/Console-Cheat-Codes/blob/f55aa8db8e6c79a2af6a9dd216b46635fc7324b5/PS1/Gran%20Turismo%202/HUD%20toggle/NTSC-U%201.2.cht",
+      "sourceName": "CookiePLMonster Console Cheat Codes",
+      "license": "MIT",
+      "blockCount": 1
+    },
+    {
+      "id": "cookieplmonster-ps1-ps1-gran-turismo-2-metric-units-ntsc-u-1-1-cht",
+      "title": "Gran Turismo 2",
+      "serials": [
+        "SCUS-94455",
+        "SCUS-94488"
+      ],
+      "authors": [
+        "CookiePLMonster and the credited code authors"
+      ],
+      "description": "Metric units",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreR-Cheat/main/files/cookieplmonster-ps1/PS1/Gran%20Turismo%202/Metric%20units/NTSC-U%201.1.cht",
+      "sourceUrl": "https://github.com/CookiePLMonster/Console-Cheat-Codes/blob/f55aa8db8e6c79a2af6a9dd216b46635fc7324b5/PS1/Gran%20Turismo%202/Metric%20units/NTSC-U%201.1.cht",
+      "sourceName": "CookiePLMonster Console Cheat Codes",
+      "license": "MIT",
+      "blockCount": 1
+    },
+    {
+      "id": "cookieplmonster-ps1-ps1-gran-turismo-2-metric-units-ntsc-u-1-2-cht",
+      "title": "Gran Turismo 2",
+      "serials": [
+        "SCUS-94455",
+        "SCUS-94488"
+      ],
+      "authors": [
+        "CookiePLMonster and the credited code authors"
+      ],
+      "description": "Metric units",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreR-Cheat/main/files/cookieplmonster-ps1/PS1/Gran%20Turismo%202/Metric%20units/NTSC-U%201.2.cht",
+      "sourceUrl": "https://github.com/CookiePLMonster/Console-Cheat-Codes/blob/f55aa8db8e6c79a2af6a9dd216b46635fc7324b5/PS1/Gran%20Turismo%202/Metric%20units/NTSC-U%201.2.cht",
+      "sourceName": "CookiePLMonster Console Cheat Codes",
+      "license": "MIT",
+      "blockCount": 1
+    },
+    {
+      "id": "cookieplmonster-ps1-ps1-gran-turismo-2-replay-cameras-ntsc-u-1-1-ntsc-u-1-2-cht",
+      "title": "Gran Turismo 2",
+      "serials": [
+        "SCUS-94455",
+        "SCUS-94488"
+      ],
+      "authors": [
+        "CookiePLMonster and the credited code authors"
+      ],
+      "description": "Enable extra cameras in race",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreR-Cheat/main/files/cookieplmonster-ps1/PS1/Gran%20Turismo%202/Replay%20cameras/NTSC-U%201.1%2C%20NTSC-U%201.2.cht",
+      "sourceUrl": "https://github.com/CookiePLMonster/Console-Cheat-Codes/blob/f55aa8db8e6c79a2af6a9dd216b46635fc7324b5/PS1/Gran%20Turismo%202/Replay%20cameras/NTSC-U%201.1%2C%20NTSC-U%201.2.cht",
+      "sourceName": "CookiePLMonster Console Cheat Codes",
+      "license": "MIT",
+      "blockCount": 1
+    },
+    {
+      "id": "cookieplmonster-ps1-ps1-gran-turismo-2-true-endurance-ntsc-u-1-1-cht",
+      "title": "Gran Turismo 2",
+      "serials": [
+        "SCUS-94455",
+        "SCUS-94488"
+      ],
+      "authors": [
+        "CookiePLMonster and the credited code authors"
+      ],
+      "description": "True Endurance tweak",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreR-Cheat/main/files/cookieplmonster-ps1/PS1/Gran%20Turismo%202/True%20Endurance/NTSC-U%201.1.cht",
+      "sourceUrl": "https://github.com/CookiePLMonster/Console-Cheat-Codes/blob/f55aa8db8e6c79a2af6a9dd216b46635fc7324b5/PS1/Gran%20Turismo%202/True%20Endurance/NTSC-U%201.1.cht",
+      "sourceName": "CookiePLMonster Console Cheat Codes",
+      "license": "MIT",
+      "blockCount": 1
+    },
+    {
+      "id": "cookieplmonster-ps1-ps1-gran-turismo-2-true-endurance-ntsc-u-1-2-cht",
+      "title": "Gran Turismo 2",
+      "serials": [
+        "SCUS-94455",
+        "SCUS-94488"
+      ],
+      "authors": [
+        "CookiePLMonster and the credited code authors"
+      ],
+      "description": "True Endurance tweak",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreR-Cheat/main/files/cookieplmonster-ps1/PS1/Gran%20Turismo%202/True%20Endurance/NTSC-U%201.2.cht",
+      "sourceUrl": "https://github.com/CookiePLMonster/Console-Cheat-Codes/blob/f55aa8db8e6c79a2af6a9dd216b46635fc7324b5/PS1/Gran%20Turismo%202/True%20Endurance/NTSC-U%201.2.cht",
+      "sourceName": "CookiePLMonster Console Cheat Codes",
+      "license": "MIT",
+      "blockCount": 1
+    },
+    {
+      "id": "chtdb-cheats-slus-00106-cht",
+      "title": "Grand Theft Auto",
+      "serials": [
+        "SLUS-00106"
+      ],
+      "authors": [
+        "DuckStation CHTDB contributors / original code authors"
+      ],
+      "description": "Infinite Lives, Get Out Of Jail Free Key, Infinite Armor",
+      "downloadUrl": "https://raw.githubusercontent.com/duckstation/chtdb/aa70de735d791639a210faa52ee974de61a10347/cheats/SLUS-00106.cht",
+      "sourceUrl": "https://github.com/duckstation/chtdb/blob/aa70de735d791639a210faa52ee974de61a10347/cheats/SLUS-00106.cht",
+      "sourceName": "DuckStation Community Cheat Database",
+      "license": "See upstream source terms",
+      "blockCount": 18
+    },
+    {
+      "id": "libretro-ps1-cht-sony-playstation-grand-theft-auto-usa-europe-game-buster-cht",
+      "title": "Grand Theft Auto",
+      "serials": [
+        "SLUS-00106"
+      ],
+      "authors": [
+        "libretro-database contributors"
+      ],
+      "description": "PAL2NTSC, Y-Fix, Music Off",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreR-Cheat/main/files/libretro-ps1/cht/Sony%20-%20PlayStation/Grand%20Theft%20Auto%20%28USA%2C%20Europe%29%20%28Game%20Buster%29.cht",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/ff28a5e5bca21f7ae2001602d2e0585cf66c9b5c/cht/Sony%20-%20PlayStation/Grand%20Theft%20Auto%20%28USA%2C%20Europe%29%20%28Game%20Buster%29.cht",
+      "sourceName": "libretro PlayStation 1 Cheats",
+      "license": "CC-BY-SA-4.0",
+      "blockCount": 11
+    },
+    {
+      "id": "libretro-ps1-cht-sony-playstation-grand-theft-auto-usa-europe-gameshark-cht",
+      "title": "Grand Theft Auto",
+      "serials": [
+        "SLUS-00106"
+      ],
+      "authors": [
+        "libretro-database contributors"
+      ],
+      "description": "Infinite Lives, 65535 High Score, Extra Bonus Points",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreR-Cheat/main/files/libretro-ps1/cht/Sony%20-%20PlayStation/Grand%20Theft%20Auto%20%28USA%2C%20Europe%29%20%28GameShark%29.cht",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/ff28a5e5bca21f7ae2001602d2e0585cf66c9b5c/cht/Sony%20-%20PlayStation/Grand%20Theft%20Auto%20%28USA%2C%20Europe%29%20%28GameShark%29.cht",
+      "sourceName": "libretro PlayStation 1 Cheats",
+      "license": "CC-BY-SA-4.0",
+      "blockCount": 19
+    },
+    {
+      "id": "chtdb-cheats-slus-00974-cht",
+      "title": "Medal of Honor",
+      "serials": [
+        "SLUS-00974"
+      ],
+      "authors": [
+        "DuckStation CHTDB contributors / original code authors"
+      ],
+      "description": "Enable + Unlock All Secret Codes, Have All Medals, Infinite Ammo on Pickup (All Levels)",
+      "downloadUrl": "https://raw.githubusercontent.com/duckstation/chtdb/aa70de735d791639a210faa52ee974de61a10347/cheats/SLUS-00974.cht",
+      "sourceUrl": "https://github.com/duckstation/chtdb/blob/aa70de735d791639a210faa52ee974de61a10347/cheats/SLUS-00974.cht",
+      "sourceName": "DuckStation Community Cheat Database",
+      "license": "See upstream source terms",
+      "blockCount": 23
+    },
+    {
+      "id": "libretro-ps1-cht-sony-playstation-medal-of-honor-usa-europe-game-buster-cht",
+      "title": "Medal of Honor",
+      "serials": [
+        "SLUS-00974"
+      ],
+      "authors": [
+        "libretro-database contributors"
+      ],
+      "description": "PAL2NTSC, Y-Fix, Y-Fix 2",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreR-Cheat/main/files/libretro-ps1/cht/Sony%20-%20PlayStation/Medal%20of%20Honor%20%28USA%2C%20Europe%29%20%28Game%20Buster%29.cht",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/ff28a5e5bca21f7ae2001602d2e0585cf66c9b5c/cht/Sony%20-%20PlayStation/Medal%20of%20Honor%20%28USA%2C%20Europe%29%20%28Game%20Buster%29.cht",
+      "sourceName": "libretro PlayStation 1 Cheats",
+      "license": "CC-BY-SA-4.0",
+      "blockCount": 3
+    },
+    {
+      "id": "libretro-ps1-cht-sony-playstation-medal-of-honor-usa-europe-gameshark-cht",
+      "title": "Medal of Honor",
+      "serials": [
+        "SLUS-00974"
+      ],
+      "authors": [
+        "libretro-database contributors"
+      ],
+      "description": "Turbo Joker Command, Invinciblity Everyone (All Levels), One-Hit Death Everyone (All Levels)",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreR-Cheat/main/files/libretro-ps1/cht/Sony%20-%20PlayStation/Medal%20of%20Honor%20%28USA%2C%20Europe%29%20%28GameShark%29.cht",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/ff28a5e5bca21f7ae2001602d2e0585cf66c9b5c/cht/Sony%20-%20PlayStation/Medal%20of%20Honor%20%28USA%2C%20Europe%29%20%28GameShark%29.cht",
+      "sourceName": "libretro PlayStation 1 Cheats",
+      "license": "CC-BY-SA-4.0",
+      "blockCount": 23
+    },
+    {
+      "id": "chtdb-cheats-slus-00330-cht",
+      "title": "Mortal Kombat Trilogy",
+      "serials": [
+        "SLUS-00330"
+      ],
+      "authors": [
+        "DuckStation CHTDB contributors / original code authors"
+      ],
+      "description": "P1 Infinite Energy, P1 Always Has Full Aggressor, All Treasure Open No Matter What Destiny You Pick",
+      "downloadUrl": "https://raw.githubusercontent.com/duckstation/chtdb/aa70de735d791639a210faa52ee974de61a10347/cheats/SLUS-00330.cht",
+      "sourceUrl": "https://github.com/duckstation/chtdb/blob/aa70de735d791639a210faa52ee974de61a10347/cheats/SLUS-00330.cht",
+      "sourceName": "DuckStation Community Cheat Database",
+      "license": "See upstream source terms",
+      "blockCount": 7
+    },
+    {
+      "id": "libretro-ps1-cht-sony-playstation-mortal-kombat-trilogy-world-game-buster-cht",
+      "title": "Mortal Kombat Trilogy",
+      "serials": [
+        "SLUS-00330"
+      ],
+      "authors": [
+        "libretro-database contributors"
+      ],
+      "description": "Infinite Health P1, Infinite Health P2, ? in Options is Available",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreR-Cheat/main/files/libretro-ps1/cht/Sony%20-%20PlayStation/Mortal%20Kombat%20Trilogy%20%28World%29%20%28Game%20Buster%29.cht",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/ff28a5e5bca21f7ae2001602d2e0585cf66c9b5c/cht/Sony%20-%20PlayStation/Mortal%20Kombat%20Trilogy%20%28World%29%20%28Game%20Buster%29.cht",
+      "sourceName": "libretro PlayStation 1 Cheats",
+      "license": "CC-BY-SA-4.0",
+      "blockCount": 54
+    },
+    {
+      "id": "libretro-ps1-cht-sony-playstation-mortal-kombat-trilogy-world-gameshark-cht",
+      "title": "Mortal Kombat Trilogy",
+      "serials": [
+        "SLUS-00330"
+      ],
+      "authors": [
+        "libretro-database contributors"
+      ],
+      "description": "P1 Always Has Full \"Aggressor\", P1 Always Has No \"Aggressor\", P2 Always Has Full \"Aggressor\"",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreR-Cheat/main/files/libretro-ps1/cht/Sony%20-%20PlayStation/Mortal%20Kombat%20Trilogy%20%28World%29%20%28GameShark%29.cht",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/ff28a5e5bca21f7ae2001602d2e0585cf66c9b5c/cht/Sony%20-%20PlayStation/Mortal%20Kombat%20Trilogy%20%28World%29%20%28GameShark%29.cht",
+      "sourceName": "libretro PlayStation 1 Cheats",
+      "license": "CC-BY-SA-4.0",
+      "blockCount": 85
+    },
+    {
+      "id": "chtdb-cheats-slus-01068-cht",
+      "title": "NASCAR Rumble",
+      "serials": [
+        "SLUS-01068"
+      ],
+      "authors": [
+        "DuckStation CHTDB contributors / original code authors"
+      ],
+      "description": "Enable All Difficulty Levels, Enable All Secret Cars, Enable Normal Tracks, Locales + Legend Drivers",
+      "downloadUrl": "https://raw.githubusercontent.com/duckstation/chtdb/aa70de735d791639a210faa52ee974de61a10347/cheats/SLUS-01068.cht",
+      "sourceUrl": "https://github.com/duckstation/chtdb/blob/aa70de735d791639a210faa52ee974de61a10347/cheats/SLUS-01068.cht",
+      "sourceName": "DuckStation Community Cheat Database",
+      "license": "See upstream source terms",
+      "blockCount": 4
+    },
+    {
+      "id": "libretro-ps1-cht-sony-playstation-nascar-rumble-usa-gameshark-cht",
+      "title": "NASCAR Rumble",
+      "serials": [
+        "SLUS-01068"
+      ],
+      "authors": [
+        "libretro-database contributors"
+      ],
+      "description": "Enable All Difficulty Levels, Enable Normal Tracks, Locales & Legend Drivers (Cheat Device 2.2 Or Higher Needed!), Unock Bonus Tracks",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreR-Cheat/main/files/libretro-ps1/cht/Sony%20-%20PlayStation/NASCAR%20Rumble%20%28USA%29%20%28GameShark%29.cht",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/ff28a5e5bca21f7ae2001602d2e0585cf66c9b5c/cht/Sony%20-%20PlayStation/NASCAR%20Rumble%20%28USA%29%20%28GameShark%29.cht",
+      "sourceName": "libretro PlayStation 1 Cheats",
+      "license": "CC-BY-SA-4.0",
+      "blockCount": 14
+    },
+    {
+      "id": "chtdb-cheats-slus-01352-cht",
+      "title": "Nickelodeon SpongeBob SquarePants - SuperSponge",
+      "serials": [
+        "SLUS-01352"
+      ],
+      "authors": [
+        "DuckStation CHTDB contributors / original code authors"
+      ],
+      "description": "Max Shell, Infinite Time, Infinite Lives",
+      "downloadUrl": "https://raw.githubusercontent.com/duckstation/chtdb/aa70de735d791639a210faa52ee974de61a10347/cheats/SLUS-01352.cht",
+      "sourceUrl": "https://github.com/duckstation/chtdb/blob/aa70de735d791639a210faa52ee974de61a10347/cheats/SLUS-01352.cht",
+      "sourceName": "DuckStation Community Cheat Database",
+      "license": "See upstream source terms",
+      "blockCount": 21
+    },
+    {
+      "id": "libretro-ps1-cht-sony-playstation-nickelodeon-spongebob-squarepants-supersponge-usa-europe-gameshark-cht",
+      "title": "Nickelodeon SpongeBob SquarePants - SuperSponge",
+      "serials": [
+        "SLUS-01352"
+      ],
+      "authors": [
+        "libretro-database contributors"
+      ],
+      "description": "Max Shell, Infinite Time, Infinite Lives",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreR-Cheat/main/files/libretro-ps1/cht/Sony%20-%20PlayStation/Nickelodeon%20SpongeBob%20SquarePants%20-%20SuperSponge%20%28USA%2C%20Europe%29%20%28GameShark%29.cht",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/ff28a5e5bca21f7ae2001602d2e0585cf66c9b5c/cht/Sony%20-%20PlayStation/Nickelodeon%20SpongeBob%20SquarePants%20-%20SuperSponge%20%28USA%2C%20Europe%29%20%28GameShark%29.cht",
+      "sourceName": "libretro PlayStation 1 Cheats",
+      "license": "CC-BY-SA-4.0",
+      "blockCount": 4
+    },
+    {
+      "id": "chtdb-cheats-slus-00707-cht",
+      "title": "Silent Hill",
+      "serials": [
+        "SLUS-00707"
+      ],
+      "authors": [
+        "DuckStation CHTDB contributors / original code authors"
+      ],
+      "description": "Infinite Health, Infinite Ammo All Weapons/No Reload, Have Map",
+      "downloadUrl": "https://raw.githubusercontent.com/duckstation/chtdb/aa70de735d791639a210faa52ee974de61a10347/cheats/SLUS-00707.cht",
+      "sourceUrl": "https://github.com/duckstation/chtdb/blob/aa70de735d791639a210faa52ee974de61a10347/cheats/SLUS-00707.cht",
+      "sourceName": "DuckStation Community Cheat Database",
+      "license": "See upstream source terms",
+      "blockCount": 28
+    },
+    {
+      "id": "libretro-ps1-cht-sony-playstation-silent-hill-world-game-buster-cht",
+      "title": "Silent Hill",
+      "serials": [
+        "SLUS-00707"
+      ],
+      "authors": [
+        "libretro-database contributors"
+      ],
+      "description": "PAL2NTSC, Y-Fix, Move screen up / down (Press Select & Up / Down Pad 2)",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreR-Cheat/main/files/libretro-ps1/cht/Sony%20-%20PlayStation/Silent%20Hill%20%28World%29%20%28Game%20Buster%29.cht",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/ff28a5e5bca21f7ae2001602d2e0585cf66c9b5c/cht/Sony%20-%20PlayStation/Silent%20Hill%20%28World%29%20%28Game%20Buster%29.cht",
+      "sourceName": "libretro PlayStation 1 Cheats",
+      "license": "CC-BY-SA-4.0",
+      "blockCount": 14
+    },
+    {
+      "id": "libretro-ps1-cht-sony-playstation-silent-hill-world-gameshark-cht",
+      "title": "Silent Hill",
+      "serials": [
+        "SLUS-00707"
+      ],
+      "authors": [
+        "libretro-database contributors"
+      ],
+      "description": "Infinite Health, Infinite Ammo & No Reloads, Have All Weapons",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreR-Cheat/main/files/libretro-ps1/cht/Sony%20-%20PlayStation/Silent%20Hill%20%28World%29%20%28GameShark%29.cht",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/ff28a5e5bca21f7ae2001602d2e0585cf66c9b5c/cht/Sony%20-%20PlayStation/Silent%20Hill%20%28World%29%20%28GameShark%29.cht",
+      "sourceName": "libretro PlayStation 1 Cheats",
+      "license": "CC-BY-SA-4.0",
+      "blockCount": 6
+    },
+    {
+      "id": "chtdb-cheats-scus-94467-cht",
+      "title": "Spyro - Year of the Dragon",
+      "serials": [
+        "SCUS-94467"
+      ],
+      "authors": [
+        "DuckStation CHTDB contributors / original code authors"
+      ],
+      "description": "Infinite Health, Infinite Lives, Gem's Worth Max",
+      "downloadUrl": "https://raw.githubusercontent.com/duckstation/chtdb/aa70de735d791639a210faa52ee974de61a10347/cheats/SCUS-94467.cht",
+      "sourceUrl": "https://github.com/duckstation/chtdb/blob/aa70de735d791639a210faa52ee974de61a10347/cheats/SCUS-94467.cht",
+      "sourceName": "DuckStation Community Cheat Database",
+      "license": "See upstream source terms",
+      "blockCount": 113
+    },
+    {
+      "id": "libretro-ps1-cht-sony-playstation-spyro-year-of-the-dragon-usa-europe-game-buster-cht",
+      "title": "Spyro - Year of the Dragon",
+      "serials": [
+        "SCUS-94467"
+      ],
+      "authors": [
+        "libretro-database contributors"
+      ],
+      "description": "PAL2NTSC, Y-Fix, Infinite health",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreR-Cheat/main/files/libretro-ps1/cht/Sony%20-%20PlayStation/Spyro%20-%20Year%20of%20the%20Dragon%20%28USA%2C%20Europe%29%20%28Game%20Buster%29.cht",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/ff28a5e5bca21f7ae2001602d2e0585cf66c9b5c/cht/Sony%20-%20PlayStation/Spyro%20-%20Year%20of%20the%20Dragon%20%28USA%2C%20Europe%29%20%28Game%20Buster%29.cht",
+      "sourceName": "libretro PlayStation 1 Cheats",
+      "license": "CC-BY-SA-4.0",
+      "blockCount": 5
+    },
+    {
+      "id": "libretro-ps1-cht-sony-playstation-spyro-year-of-the-dragon-usa-europe-gameshark-cht",
+      "title": "Spyro - Year of the Dragon",
+      "serials": [
+        "SCUS-94467"
+      ],
+      "authors": [
+        "libretro-database contributors"
+      ],
+      "description": "Enable Code (Must Be On-Version 1), Enable Code (Must Be On-Version 2), Infinite Health",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreR-Cheat/main/files/libretro-ps1/cht/Sony%20-%20PlayStation/Spyro%20-%20Year%20of%20the%20Dragon%20%28USA%2C%20Europe%29%20%28GameShark%29.cht",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/ff28a5e5bca21f7ae2001602d2e0585cf66c9b5c/cht/Sony%20-%20PlayStation/Spyro%20-%20Year%20of%20the%20Dragon%20%28USA%2C%20Europe%29%20%28GameShark%29.cht",
+      "sourceName": "libretro PlayStation 1 Cheats",
+      "license": "CC-BY-SA-4.0",
+      "blockCount": 10
+    },
+    {
+      "id": "chtdb-cheats-slus-00402-cht",
+      "title": "Tekken 3",
+      "serials": [
+        "SLUS-00402"
+      ],
+      "authors": [
+        "DuckStation CHTDB contributors / original code authors"
+      ],
+      "description": "P1 Infinite Health, P2 Infinite Health, P1 No Health",
+      "downloadUrl": "https://raw.githubusercontent.com/duckstation/chtdb/aa70de735d791639a210faa52ee974de61a10347/cheats/SLUS-00402.cht",
+      "sourceUrl": "https://github.com/duckstation/chtdb/blob/aa70de735d791639a210faa52ee974de61a10347/cheats/SLUS-00402.cht",
+      "sourceName": "DuckStation Community Cheat Database",
+      "license": "See upstream source terms",
+      "blockCount": 40
+    },
+    {
+      "id": "libretro-ps1-cht-sony-playstation-tekken-3-world-gameshark-cht",
+      "title": "Tekken 3",
+      "serials": [
+        "SLUS-00402"
+      ],
+      "authors": [
+        "libretro-database contributors"
+      ],
+      "description": "P1 Massive Damage, P2 Massive Damage, Infinite Force Mode Time",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreR-Cheat/main/files/libretro-ps1/cht/Sony%20-%20PlayStation/Tekken%203%20%28World%29%20%28GameShark%29.cht",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/ff28a5e5bca21f7ae2001602d2e0585cf66c9b5c/cht/Sony%20-%20PlayStation/Tekken%203%20%28World%29%20%28GameShark%29.cht",
+      "sourceName": "libretro PlayStation 1 Cheats",
+      "license": "CC-BY-SA-4.0",
+      "blockCount": 11
+    }
+  ]
+}

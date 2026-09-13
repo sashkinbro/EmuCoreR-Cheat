@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "sources": [
+    {
+      "id": "libretro-ps1",
+      "name": "libretro PlayStation 1 Cheats",
+      "author": "libretro-database contributors and the original code authors",
+      "url": "https://github.com/libretro/libretro-database",
+      "notes": "CC-BY-SA-4.0. Cheat files are collected by libretro-database from community contributions. Mirrored under files/libretro-ps1/ with attribution and the same license; adaptations remain CC-BY-SA-4.0."
+    },
+    {
+      "id": "cookieplmonster-ps1",
+      "name": "CookiePLMonster Console Cheat Codes",
+      "author": "CookiePLMonster and the credited code authors (asasega, HugoPocked and others)",
+      "url": "https://github.com/CookiePLMonster/Console-Cheat-Codes",
+      "notes": "MIT. Gran Turismo and Gran Turismo 2 GameShark/60 FPS/widescreen patches, mirrored under files/cookieplmonster-ps1/ with attribution. Individual codes credit their original authors in the files."
+    },
+    {
+      "id": "chtdb",
+      "name": "DuckStation Community Cheat Database",
+      "author": "DuckStation CHTDB contributors and the original code authors",
+      "url": "https://github.com/duckstation/chtdb",
+      "notes": "Cheat data copyright is held by the original authors; only the processing scripts are MIT. Not mirrored: the catalog links the immutable pinned upstream raw URL."
+    }
+  ]
+}

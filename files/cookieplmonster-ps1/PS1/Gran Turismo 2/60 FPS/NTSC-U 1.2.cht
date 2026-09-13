@@ -1,0 +1,12 @@
+[60 FPS]
+E01D5864 0002
+301D5864 0001
+A401F888 AEB40008
+# Re-enable tire smoke
+A70168C8 00020000
+# Re-enable sky in the read view mirror
+A7019644 00020000
+00000000 FFFF
+# Re-enable rear view mirror
+A003EC74 02602021
+A7029550 00020000
